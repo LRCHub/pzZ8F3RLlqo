@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "A Perfect Sky",
+  "base_artist": "ぷにる（CV：篠原 侑）",
+  "createdAt": "2026-01-13T23:37:13.548231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "BONNIE PINK",
+      "has_synced": false,
+      "path": "select/01_A_Perfect_Sky_BONNIE_PINK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "Deliverance",
+      "has_synced": true,
+      "path": "select/02_A_Perfect_Sky_Deliverance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/03_A_Perfect_Sky_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "AYA a.k.a PANDA",
+      "has_synced": true,
+      "path": "select/04_A_Perfect_Sky_AYA_a.k.a_PANDA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Perfect Sky (Philharmonic Flava)",
+      "artist": "Bonnie Pink",
+      "has_synced": false,
+      "path": "select/05_A_Perfect_Sky_(Philharmonic_Flava)_Bonnie_Pink.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "Rei Yasuda",
+      "has_synced": true,
+      "path": "select/06_A_Perfect_Sky_Rei_Yasuda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "Bonnie Pink",
+      "has_synced": true,
+      "path": "select/07_A_Perfect_Sky_Bonnie_Pink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Perfect Sky  (Bjorn Remix)",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/08_A_Perfect_Sky_(Bjorn_Remix)_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Perfect Sky",
+      "artist": "安田レイ",
+      "has_synced": true,
+      "path": "select/09_A_Perfect_Sky_安田レイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Perfect Sky",
+      "artist": "ぷにる(CV:篠原 侑)",
+      "has_synced": false,
+      "path": "select/pl_01_A_Perfect_Sky_ぷにる(CV_篠原_侑).txt"
+    }
+  ]
+}
